@@ -2,6 +2,14 @@
 name = "QuantRS"
 version = "0.1.0"
 edition = "2021"
+authors = ["Zach <zach@tama.me>"]
+keywords = ["finance", "quantitative"]
+description = "The rust implementation of QuantLib, a quantitative finance framework"
+homepage = "https://github.com/zachgenius/QuantRS"
+repository = "https://github.com/zachgenius/QuantRS"
+license = "GPL-3.0"
+readme = "README.md"
+exclude = ["docs/**/*", "media/**/*"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]

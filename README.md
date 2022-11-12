@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zachgenius/QuantRS">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="media/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">QuantRS</h3>
@@ -89,8 +89,7 @@ This project is in a very early stage. I'll try my best to implement all feature
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+TODO
 
 ### Prerequisites
 
@@ -132,7 +131,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,8 +139,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 Project Link: [https://github.com/zachgenius/QuantRS](https://github.com/zachgenius/QuantRS)
 
@@ -152,9 +149,7 @@ Project Link: [https://github.com/zachgenius/QuantRS](https://github.com/zachgen
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [QuantLib](https://www.quantlib.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +167,7 @@ Project Link: [https://github.com/zachgenius/QuantRS](https://github.com/zachgen
 [issues-url]: https://github.com/zachgenius/QuantRS/issues
 [license-shield]: https://img.shields.io/github/license/zachgenius/QuantRS.svg?style=for-the-badge
 [license-url]: https://github.com/zachgenius/QuantRS/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: media/screenshot.png
 [Rustlang]: https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black
 [Rust-url]: https://www.rust-lang.org/
 
